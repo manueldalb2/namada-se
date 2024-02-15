@@ -1,0 +1,8 @@
+Seed
+https://github.com/anoma/namada-shielded-expedition/pull/274
+
+RPC
+https://namada-rpc.bit9.it
+
+Indexer
+https://namada-api.bit9.it
